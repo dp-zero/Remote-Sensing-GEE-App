@@ -1,4 +1,4 @@
-# works
+# Discription
 This code
 
 •	Processes raw Landsat 8 satellite image to Rayleign-corrected reflectance and constructed the floating algae index (FAI) of inland surface water across the globe by using Java Script in Google Earth Engine (GEE) Code Editor
