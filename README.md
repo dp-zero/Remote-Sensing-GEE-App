@@ -6,3 +6,6 @@ This code
 •	Analyzes FAI changes across the water body chose by the user by comparing satellite data from 2013 to 2018
 
 •	creates an App allows users to click on any inland water body to see its FAI changes across time, and to choose a certain date to visualize the FAI distributution across the chosen water body. 
+
+Link to the App:
+https://p1ding.users.earthengine.app/view/floating-algae-index-for-inland-water
